@@ -1,0 +1,36 @@
+{
+  "booking": {
+    "101": [
+      {
+        "id": 101,
+        "type": 1,
+        "checkin": "10-10-20",
+        "checkout": "10-14-20",
+        "availability": true
+      }
+    ],
+    "102": [
+      {
+        "id": 102,
+        "type": 1,
+        "checkin": "10-10-20",
+        "checkout": "10-14-20",
+        "availability": true
+      }
+    ],
+    "302": [
+      {
+        "id": 302,
+        "type": 1,
+        "checkin": "10-10-20",
+        "checkout": "10-14-20",
+        "availability": true
+      }
+    ]
+  },
+  "rooms": {
+    "type1": [101, 102, 103, 104, 105],
+    "type2": [201, 202, 203, 204, 205],
+    "type3": [301, 302, 303, 304, 305]
+  }
+}
